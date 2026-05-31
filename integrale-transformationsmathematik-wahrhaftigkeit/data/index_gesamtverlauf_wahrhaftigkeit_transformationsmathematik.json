@@ -1,0 +1,462 @@
+{
+  "metadata": {
+    "title": "Index des gesamten Verlaufs — Transformationsmathematik, Wahrhaftigkeit und Logik",
+    "created_at": "2026-05-31T02:59:03",
+    "language": "de",
+    "format": "JSON",
+    "source_basis": "Index-PDF und konsolidierter Chatverlauf",
+    "truth_note": "Einige frühere Chatteile waren als 'Skipped' ausgeblendet. Dieser Index ist eine konsolidierte, wahrheitsgemäß markierte Übersicht, kein wortwörtliches Volltranskript.",
+    "sha256_before_hash_field": "564700c8ec3557203139b12f9b26a22c3c2ce3b5d23636b96157a86862f942a0"
+  },
+  "wahrhaftigkeitsrahmen": {
+    "status": "konsolidiert",
+    "methodik": "Zeitalter -> Arbeitsschritt -> TOP-Matrix -> Formel -> Transformation",
+    "anti_mythos": [
+      "ResearchGate ist Plattform, nicht Ursprung der AI.",
+      "Computer/Microchip und erste AI-Mathematik liegen historisch vor der Petrodollar-Architektur.",
+      "LLMs sind keine automatischen Wahrheitsorakel; P(y|x) ist Modellwahrscheinlichkeit.",
+      "Moderne Formeln auf alte Kulturen werden als Rekonstruktion markiert, nicht als wörtliche historische Notation."
+    ],
+    "finale_index_formeln": [
+      "Gesamtverlauf = Vorantike + Antike + Mittelalter + Renaissance + Industrie + Elektrizität + Weltkriege + Computer + Microchip + AI + Governance",
+      "Internationale Wahrhaftigkeit = jeder Arbeitsschritt + korrekte Formel + Zeitalter + Weltkultur + kritische Einordnung"
+    ]
+  },
+  "index_arbeitsschritte": [
+    {
+      "nr": 1,
+      "arbeitsschritt": "Start: Mathematische Formeln der Antike",
+      "zeitalter_fokus": "Antike",
+      "top_inhalt": "Top 10",
+      "transformationskern": "Grundformeln: Zahl, Geometrie, Kalender, Beweis"
+    },
+    {
+      "nr": 2,
+      "arbeitsschritt": "Erweiterung auf 40",
+      "zeitalter_fokus": "Vorantike, Frühantike, Antike, Spätantike",
+      "top_inhalt": "Top 40",
+      "transformationskern": "Erste globale Epochenordnung"
+    },
+    {
+      "nr": 3,
+      "arbeitsschritt": "Erweiterung bis Göbekli Tepe",
+      "zeitalter_fokus": "Vorantike / Neolithikum",
+      "top_inhalt": "Top 50",
+      "transformationskern": "Raumordnung, Kreis, Ritual, Architektur"
+    },
+    {
+      "nr": 4,
+      "arbeitsschritt": "Erweiterung mit indischer uralter Kultur",
+      "zeitalter_fokus": "Indien",
+      "top_inhalt": "Top 100",
+      "transformationskern": "Null, Dezimalsystem, Trigonometrie, Astronomie"
+    },
+    {
+      "nr": 5,
+      "arbeitsschritt": "Erweiterung mit chinesischer und asiatischer Kultur",
+      "zeitalter_fokus": "China / Asien",
+      "top_inhalt": "Top 150",
+      "transformationskern": "Abakus, Kalender, Fangcheng, lineare Gleichungen"
+    },
+    {
+      "nr": 6,
+      "arbeitsschritt": "Erweiterung Amerika",
+      "zeitalter_fokus": "Nord-, Mittel-, Südamerika",
+      "top_inhalt": "Top 200",
+      "transformationskern": "Maya, Olmeken, Azteken, Inka, Quipu, Erdwerke"
+    },
+    {
+      "nr": 7,
+      "arbeitsschritt": "Transformation mit Datei/Gemini-Hinweis",
+      "zeitalter_fokus": "Quellen- und Wahrheitsprüfung",
+      "top_inhalt": "Top 250",
+      "transformationskern": "Trennung zwischen AI-Quelle, Fakt und Rekonstruktion"
+    },
+    {
+      "nr": 8,
+      "arbeitsschritt": "Vorantike Weltkulturen",
+      "zeitalter_fokus": "globale Vorantike",
+      "top_inhalt": "Top 300",
+      "transformationskern": "Jäger-Sammler, Neolithikum, frühe Raum- und Zahlkultur"
+    },
+    {
+      "nr": 9,
+      "arbeitsschritt": "Frühantike Weltkulturen",
+      "zeitalter_fokus": "frühe Hochkulturen",
+      "top_inhalt": "Top 350",
+      "transformationskern": "Schrift, Zahlensysteme, Kalender, Verwaltung"
+    },
+    {
+      "nr": 10,
+      "arbeitsschritt": "Bronzezeit Weltkulturen",
+      "zeitalter_fokus": "Bronzezeit",
+      "top_inhalt": "Top 400",
+      "transformationskern": "Mesopotamien, Ägypten, Indus, China, Handel"
+    },
+    {
+      "nr": 11,
+      "arbeitsschritt": "Nur Antike Weltkulturen",
+      "zeitalter_fokus": "Antike ohne Früh-/Spätantike",
+      "top_inhalt": "Top 350",
+      "transformationskern": "Griechenland, Rom, Indien, China, Mesoamerika"
+    },
+    {
+      "nr": 12,
+      "arbeitsschritt": "Spätantike bis 1071 Malazgirt",
+      "zeitalter_fokus": "Spätantike",
+      "top_inhalt": "Blöcke à 50",
+      "transformationskern": "Byzanz, Islamische Welt, Indien, China, Anatolien"
+    },
+    {
+      "nr": 13,
+      "arbeitsschritt": "1071 Malazgirt bis Renaissance",
+      "zeitalter_fokus": "Mittelalter",
+      "top_inhalt": "Blöcke à 50",
+      "transformationskern": "Algebra, Übersetzungen, Universitäten, Handelsnetze"
+    },
+    {
+      "nr": 14,
+      "arbeitsschritt": "Frührenaissance, Renaissance, Spätrenaissance",
+      "zeitalter_fokus": "Renaissance",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Perspektive, Mechanik, Astronomie, Analysis-Vorformen"
+    },
+    {
+      "nr": 15,
+      "arbeitsschritt": "1453 bis 1689",
+      "zeitalter_fokus": "Frühmoderne",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Weltmarkt, Kartographie, Kolonialismus, Wissenschaftsrevolution"
+    },
+    {
+      "nr": 16,
+      "arbeitsschritt": "1689 bis Dampfmaschine",
+      "zeitalter_fokus": "Vorindustrielle Moderne",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Staatsfinanzen, Mechanik, Druck, frühe Maschinen"
+    },
+    {
+      "nr": 17,
+      "arbeitsschritt": "Dampfmaschine bis Elektrizität",
+      "zeitalter_fokus": "Industrievorstufe",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Dampf, Arbeit, Druck, Thermodynamik"
+    },
+    {
+      "nr": 18,
+      "arbeitsschritt": "Elektrizität bis Erster Weltkrieg",
+      "zeitalter_fokus": "1800–1914",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Volta, Ohm, Faraday, Maxwell, Industrie, Imperialismus"
+    },
+    {
+      "nr": 19,
+      "arbeitsschritt": "Erster Weltkrieg bis Zweiter Weltkrieg",
+      "zeitalter_fokus": "1914–1939",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Industriekrieg, Statistik, Krise, Funk, Mechanisierung"
+    },
+    {
+      "nr": 20,
+      "arbeitsschritt": "Zweiter Weltkrieg bis Petrodollar",
+      "zeitalter_fokus": "1939–1974",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Radar, Atom, Computer, Bretton Woods, OPEC, Öl-Dollar"
+    },
+    {
+      "nr": 21,
+      "arbeitsschritt": "Petrodollar bis Computer/Microchip",
+      "zeitalter_fokus": "Chronologie-Korrektur",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Wahrheitskorrektur: Computer und Microchip kamen vor Petrodollar"
+    },
+    {
+      "nr": 22,
+      "arbeitsschritt": "Computer/Microchip bis erste AI-Mathematik",
+      "zeitalter_fokus": "1936–1971",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Turing, Zuse, Colossus, ENIAC, Transistor, IC, Mikroprozessor"
+    },
+    {
+      "nr": 23,
+      "arbeitsschritt": "Erste AI-technische Mathematik bis 31.05.2026",
+      "zeitalter_fokus": "1943–2026",
+      "top_inhalt": "Top 500",
+      "transformationskern": "McCulloch-Pitts, Dartmouth, Perceptron, Deep Learning, Transformer"
+    },
+    {
+      "nr": 24,
+      "arbeitsschritt": "ResearchGate-Ära und AI-Veröffentlichungen",
+      "zeitalter_fokus": "2008–2026",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Plattformwissenschaft, Preprints, CNN, GAN, AlphaGo, GPT"
+    },
+    {
+      "nr": 25,
+      "arbeitsschritt": "Weltweite Forscher und Preisträger",
+      "zeitalter_fokus": "AI-Innovationen 2008–2026",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Hinton, LeCun, Bengio, Hopfield, Hassabis, Jumper, Baker"
+    },
+    {
+      "nr": 26,
+      "arbeitsschritt": "Gesamtverlauf als 7-Spalten-Matrix",
+      "zeitalter_fokus": "Vorantike bis AI",
+      "top_inhalt": "Top 500",
+      "transformationskern": "Epoche, Raum, Transformation, Formel, Status, Vernetzung"
+    },
+    {
+      "nr": 27,
+      "arbeitsschritt": "Neues Universitätsfach",
+      "zeitalter_fokus": "Integrale Transformationsmathematik",
+      "top_inhalt": "Fachkonzept",
+      "transformationskern": "Mathematik + Geschichte + AI + Ethik + Wahrhaftigkeit"
+    }
+  ],
+  "index_zeitalter_der_menschheit": [
+    {
+      "zeitalter": "Vorantike",
+      "top_thema": "Göbekli Tepe, Megalithen, Neolithikum",
+      "mathematischer_kern": "N, A, t, G",
+      "menschheits_transformation": "Zählen, Raumordnung, Ritual, Siedlung"
+    },
+    {
+      "zeitalter": "Bronzezeit",
+      "top_thema": "Mesopotamien, Ägypten, Indus, China",
+      "mathematischer_kern": "N=sum(d_i*b^i)",
+      "menschheits_transformation": "Schrift, Verwaltung, Handel, Kalender"
+    },
+    {
+      "zeitalter": "Antike",
+      "top_thema": "Griechenland, Rom, Indien, China, Mesoamerika",
+      "mathematischer_kern": "a^2+b^2=c^2",
+      "menschheits_transformation": "Beweis, Geometrie, Astronomie, Zahlensysteme"
+    },
+    {
+      "zeitalter": "Spätantike",
+      "top_thema": "Byzanz, Indien, China, Syrien",
+      "mathematischer_kern": "T=sum(T_i)",
+      "menschheits_transformation": "Verwaltung, Übersetzung, religiöse Zeitordnung"
+    },
+    {
+      "zeitalter": "Mittelalter",
+      "top_thema": "Islamische Welt, Indien, China, Europa, Amerika",
+      "mathematischer_kern": "a*x^2+b*x+c=0",
+      "menschheits_transformation": "Algebra, Universitäten, Handelsnetze, Kalender"
+    },
+    {
+      "zeitalter": "Renaissance",
+      "top_thema": "Italien, Europa, Osmanen, Weltseefahrt",
+      "mathematischer_kern": "(x,y), dy/dx",
+      "menschheits_transformation": "Perspektive, Mechanik, Weltkarten, Wissenschaftsrevolution"
+    },
+    {
+      "zeitalter": "Frühmoderne",
+      "top_thema": "1453–1712",
+      "mathematischer_kern": "F=m*a, W=m*g*h",
+      "menschheits_transformation": "Weltmarkt, Kolonialreiche, Kredit, Maschinen"
+    },
+    {
+      "zeitalter": "Industriezeit",
+      "top_thema": "Dampf bis Elektrizität",
+      "mathematischer_kern": "W=integral(p dV), V=I*R",
+      "menschheits_transformation": "Dampfmaschine, Strom, Fabriken, Kommunikation"
+    },
+    {
+      "zeitalter": "19. Jahrhundert bis 1914",
+      "top_thema": "Industrie, Imperialismus, Wissenschaft",
+      "mathematischer_kern": "E=h*f, E=m*c^2",
+      "menschheits_transformation": "Stahl, Eisenbahn, Funk, neue Physik"
+    },
+    {
+      "zeitalter": "Erster Weltkrieg",
+      "top_thema": "1914–1918",
+      "mathematischer_kern": "Q=N*r*t",
+      "menschheits_transformation": "industrielle Kriegslogistik"
+    },
+    {
+      "zeitalter": "Zwischenkriegszeit",
+      "top_thema": "1919–1939",
+      "mathematischer_kern": "I=P_t/P_0",
+      "menschheits_transformation": "Krise, Inflation, Ideologie, Mechanisierung"
+    },
+    {
+      "zeitalter": "Zweiter Weltkrieg",
+      "top_thema": "1939–1945",
+      "mathematischer_kern": "d=c*t/2, E=Delta_m*c^2",
+      "menschheits_transformation": "Radar, Kryptografie, Atomzeitalter"
+    },
+    {
+      "zeitalter": "Nachkriegsordnung",
+      "top_thema": "1945–1971",
+      "mathematischer_kern": "G=(V,E)",
+      "menschheits_transformation": "UNO, Bretton Woods, Kalter Krieg, Dekolonisierung"
+    },
+    {
+      "zeitalter": "Petrodollar-Ära",
+      "top_thema": "1971–1974",
+      "mathematischer_kern": "R_oil=P_oil*Q_oil",
+      "menschheits_transformation": "Öl-Dollar-Finanzarchitektur"
+    },
+    {
+      "zeitalter": "Computerzeitalter",
+      "top_thema": "1936–1971",
+      "mathematischer_kern": "N=sum(b_i*2^i)",
+      "menschheits_transformation": "Turingmaschine, Computer, Transistor, Microchip"
+    },
+    {
+      "zeitalter": "Erste AI-Mathematik",
+      "top_thema": "1943–1958",
+      "mathematischer_kern": "y=H(sum(w_i*x_i)-theta)",
+      "menschheits_transformation": "künstliches Neuron, Perceptron, Lernen"
+    },
+    {
+      "zeitalter": "Symbolische AI",
+      "top_thema": "1956–1980",
+      "mathematischer_kern": "F,R |- q",
+      "menschheits_transformation": "Regeln, Suche, Expertensysteme"
+    },
+    {
+      "zeitalter": "Machine Learning",
+      "top_thema": "1980–2008",
+      "mathematischer_kern": "theta<-theta-eta*grad(L)",
+      "menschheits_transformation": "Backpropagation, Statistik, Internetdaten"
+    },
+    {
+      "zeitalter": "Deep Learning",
+      "top_thema": "2008–2016",
+      "mathematischer_kern": "Y=K*X",
+      "menschheits_transformation": "CNN, ImageNet, GPU, AlphaGo"
+    },
+    {
+      "zeitalter": "Transformer-Ära",
+      "top_thema": "ab 2017",
+      "mathematischer_kern": "softmax(QK^T/sqrt(d_k))V",
+      "menschheits_transformation": "LLMs, Foundation Models, ChatGPT"
+    },
+    {
+      "zeitalter": "Generative AI",
+      "top_thema": "2021–2026",
+      "mathematischer_kern": "P(y|x)",
+      "menschheits_transformation": "Text, Bild, Code, Audio, Video"
+    },
+    {
+      "zeitalter": "AI-Governance",
+      "top_thema": "2024–2026",
+      "mathematischer_kern": "Risk=E[L]",
+      "menschheits_transformation": "AI Act, Sicherheit, Verantwortung, Prüfpflicht"
+    }
+  ],
+  "index_formel_transformationen": [
+    {
+      "nr": 1,
+      "formel": "N=sum(1)",
+      "bedeutung": "Zählen, Register, Verwaltung"
+    },
+    {
+      "nr": 2,
+      "formel": "N=sum(d_i*b^i)",
+      "bedeutung": "Stellenwertsysteme, Babylon, Indien, China"
+    },
+    {
+      "nr": 3,
+      "formel": "A=pi*r^2",
+      "bedeutung": "Raum, Architektur, Geometrie"
+    },
+    {
+      "nr": 4,
+      "formel": "a^2+b^2=c^2",
+      "bedeutung": "Vermessung, Bau, Geometrie"
+    },
+    {
+      "nr": 5,
+      "formel": "t_{n+1}=t_n+P",
+      "bedeutung": "Kalender, Astronomie, Agrarzeit"
+    },
+    {
+      "nr": 6,
+      "formel": "G=(V,E)",
+      "bedeutung": "Handel, Kultur, Internet, AI-Netzwerke"
+    },
+    {
+      "nr": 7,
+      "formel": "F=m*a",
+      "bedeutung": "Mechanik, Industrie, Maschinen"
+    },
+    {
+      "nr": 8,
+      "formel": "W=integral(p dV)",
+      "bedeutung": "Dampfmaschine, Industrialisierung"
+    },
+    {
+      "nr": 9,
+      "formel": "V=I*R",
+      "bedeutung": "Elektrizität, Stromnetze"
+    },
+    {
+      "nr": 10,
+      "formel": "E=m*c^2",
+      "bedeutung": "Atomzeitalter"
+    },
+    {
+      "nr": 11,
+      "formel": "H=-sum(p_i log2 p_i)",
+      "bedeutung": "Information, Computer, Kommunikation"
+    },
+    {
+      "nr": 12,
+      "formel": "U(<M,x>)=M(x)",
+      "bedeutung": "Turingmaschine, Berechenbarkeit"
+    },
+    {
+      "nr": 13,
+      "formel": "y=H(sum(w_i*x_i)-theta)",
+      "bedeutung": "erstes AI-Neuron"
+    },
+    {
+      "nr": 14,
+      "formel": "w<-w+eta*(y-y_hat)*x",
+      "bedeutung": "Perceptron-Lernen"
+    },
+    {
+      "nr": 15,
+      "formel": "theta<-theta-eta*grad(L)",
+      "bedeutung": "Machine Learning, Deep Learning"
+    },
+    {
+      "nr": 16,
+      "formel": "Y=K*X",
+      "bedeutung": "CNN, Computer Vision"
+    },
+    {
+      "nr": 17,
+      "formel": "y=F(x)+x",
+      "bedeutung": "ResNet, sehr tiefe Netze"
+    },
+    {
+      "nr": 18,
+      "formel": "min_G max_D V(D,G)",
+      "bedeutung": "GAN, generative AI"
+    },
+    {
+      "nr": 19,
+      "formel": "softmax(QK^T/sqrt(d_k))V",
+      "bedeutung": "Transformer, LLMs"
+    },
+    {
+      "nr": 20,
+      "formel": "P(y|x,R(x))",
+      "bedeutung": "RAG, Quellenstützung"
+    },
+    {
+      "nr": 21,
+      "formel": "Risk=E[L]",
+      "bedeutung": "AI-Sicherheit und Governance"
+    },
+    {
+      "nr": 22,
+      "formel": "Truth=Chronology+Formula+Source+Ethics",
+      "bedeutung": "Wahrhaftigkeitsstandard"
+    }
+  ]
+}
