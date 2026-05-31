@@ -88,11 +88,9 @@ Dieses Repository eignet sich als:
 4. Lehrmaterial-Entwurf,
 5. methodische Vorlage für transparente AI-assistierte Wissensarbeit.
 
-## Nicht behaupten
+## Diese Repository ist
 
-Bitte dieses Repository **nicht** als endgültige, peer-reviewte Weltgeschichte der Mathematik bezeichnen. Seriöser ist:
-
-> „Ein offenes, AI-assistiertes, transparentes Dokumentations- und Forschungsdaten-Repository zur Integralen Transformationsmathematik und Wahrhaftigkeitsanalyse.“
+„Ein offenes, AI-assistiertes, transparentes Dokumentations- und Forschungsdaten-Repository zur Integralen Transformationsmathematik und Wahrhaftigkeitsanalyse.“
 
 ## Quellenanker
 
