@@ -66,6 +66,8 @@ Das Repository unterscheidet konsequent zwischen:
 
 ```text
 Wahrhaftigkeit = Chronologie + Formel + Quelle + Kontext + Ethik - Mythos - Scheingenauigkeit
+```
+
 
 ## Wichtigste Dateien
 
