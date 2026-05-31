@@ -62,14 +62,14 @@ Das Repository unterscheidet konsequent zwischen:
 | **R** | Moderne Rekonstruktion oder analytisches Modell |
 | **K** | Kritische, ethische, kulturelle oder gesellschaftliche Einordnung |
 
-## Leitformel
+Leitformel
 
 ```text
 Wahrhaftigkeit = Chronologie + Formel + Quelle + Kontext + Ethik - Mythos - Scheingenauigkeit
 ```
 
 
-## Wichtigste Dateien
+Wichtigste Dateien
 
 Datei,Zweck
 data/index_27_tabellen_top_inhalte_wahrhaftigkeit.json,Maschinenlesbare Version der 27 TOP-Tabellen
@@ -79,12 +79,12 @@ data/index_27_tabellen_json_manifest.json,SHA-256-Manifest für JSON
 scripts/verify_sha256.py,Lokales Prüfsummen-Skript
 
 
-## Methodische Grundstruktur
+Methodische Grundstruktur
 
 Zeitalter → Weltkultur → Transformation → Formel → Status → Wirkung → Kritik
 
 
-## Anti-Mythos-Regeln
+Anti-Mythos-Regeln
 
 Dieses Repository vermeidet bewusst überzogene oder falsche Behauptungen:
 
@@ -95,20 +95,20 @@ LLMs modellieren Wahrscheinlichkeiten — sie sind keine automatischen Wahrheits
 Eine mathematisch korrekte Formel garantiert keine gerechte oder ethisch richtige Anwendung.
 Dieses Repository ist ein offener Forschungsentwurf, kein endgültiger Kanon.
 
-## Qualitätskontrolle
+Qualitätskontrolle
 Zur technischen Verifizierbarkeit enthalten die Manifest-Dateien SHA-256-Prüfsummen.
 Optional kann lokal geprüft werden:
 
 python scripts/verify_sha256.py
 
 
-##  Lizenz- und Quellenhinweis
+Lizenz- und Quellenhinweis
 Dieses Repository steht unter der MIT License.
 Die Lizenz gilt für die im Repository erstellten Dokumentations-, Strukturierungs- und Begleitdateien. Externe Quellen, historische Fakten, zitierte Institutionen und referenzierte Materialien bleiben an ihre jeweiligen Rechte und Bedingungen gebunden.
 Die Dokumentation verweist unter anderem auf offizielle Quellen zu Göbekli Tepe, Dartmouth 1956, McCulloch & Pitts 1943, Transformer 2017, ChatGPT 2022, EU AI Act und Nobelpreisen 2024 (siehe METHODOLOGY.md).
 
 
-## Einladung zur Zusammenarbeit
+Einladung zur Zusammenarbeit
 
 Korrekturen, Quellenhinweise, methodische Kritik und Erweiterungen sind ausdrücklich willkommen.
 Dieses Projekt versteht sich als offener Anfang — nicht als endgültiger Abschluss.
