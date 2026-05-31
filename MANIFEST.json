@@ -1,0 +1,126 @@
+{
+  "repository": "integrale-transformationsmathematik-wahrhaftigkeit",
+  "created_at": "2026-05-31T03:11:19",
+  "license": "MIT",
+  "author": "Luciano Tunc",
+  "truth_status": "AI-assisted consolidated documentation artifact; not peer-reviewed final historical proof.",
+  "included_files": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/correction.md",
+      "bytes": 398,
+      "sha256": "8fa367b77b2cf6baa46dbecc463e98a047e7406c439b0f5119dfdb1664db70b2"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 530,
+      "sha256": "730c0f0bc3025a8137f33e0e0e059e3f46d2ac3acf3cbcd2353b909e5a121f08"
+    },
+    {
+      "path": "CODE_OF_CONDUCT.md",
+      "bytes": 451,
+      "sha256": "27939241ee2ba72f580096842320269f3fd12f791b53656f1f94edd6bc0fec99"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 778,
+      "sha256": "7d3ed867eae2e64451f9f22f3be118e9bbe0705df92959838e02d1705a3a5da7"
+    },
+    {
+      "path": "DATA_DICTIONARY.md",
+      "bytes": 1094,
+      "sha256": "f8abdd754cfad8e9e933c0012bcac2ce8cacb567ad4065f1fec6aa887ff27ebe"
+    },
+    {
+      "path": "HONESTY.md",
+      "bytes": 1824,
+      "sha256": "e30e1aaece889cc600c85c862e4ed96d638e76db6f626794a0b74fef87b24166"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1068,
+      "sha256": "fc238733e16ba984e3b687e18a5164c44e2c6dcd163aabe9bd6df2fb6e67e872"
+    },
+    {
+      "path": "METHODOLOGY.md",
+      "bytes": 2020,
+      "sha256": "c7b79fee8681085deecbeb93d7eca64fc29efc242830d383af11cc8c39b8c7fd"
+    },
+    {
+      "path": "PUBLISHING_GUIDE.md",
+      "bytes": 2627,
+      "sha256": "63b1d5db067ffa4774a30b110a106ddfb1a771177096bff5485ad9d0821ff8e4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4065,
+      "sha256": "2186fd47796aab3e1b5ff6a1d4fb2ba588d043586c398df1dde609608a6e52f7"
+    },
+    {
+      "path": "RELEASE_NOTES_v0.1.0.md",
+      "bytes": 684,
+      "sha256": "4441400e528a3fdb2827b5da27e6fa3f4d055e716ccff8e322f9493a1f5b18b7"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 376,
+      "sha256": "2e9f5aa3405ca39cb5d2d62240d69619e3c7e374b19d6ecc9d942d57cf78c1ca"
+    },
+    {
+      "path": "data/gesamtverlauf_transformationsmathematik_wahrhaftigkeit_top500.json",
+      "bytes": 267838,
+      "sha256": "e5327375efacd7743d7f9f77fc42e50c255a17c0a2d56f33765d7d96576be15d"
+    },
+    {
+      "path": "data/index_27_tabellen_json_manifest.json",
+      "bytes": 702,
+      "sha256": "a1e263db8c0754799f7de4139366c2bb58912d84458e5900b5e75c09d3d59a9a"
+    },
+    {
+      "path": "data/index_27_tabellen_top_inhalte_wahrhaftigkeit.json",
+      "bytes": 126343,
+      "sha256": "1fe8ede051153db0578f34f052eb9e7eb6a70d17d747fa266ae4b764074b87db"
+    },
+    {
+      "path": "data/index_gesamtverlauf_wahrhaftigkeit_transformationsmathematik.json",
+      "bytes": 15530,
+      "sha256": "1f5339edc249205ec035f7fc64903df4797c98f4ba3832d68f6dd3c5f1bcb4a4"
+    },
+    {
+      "path": "docs/gesamtverlauf_transformationsmathematik_wahrhaftigkeit_top500.pdf",
+      "bytes": 262934,
+      "sha256": "2375b0a03b90ca4f4bcc46d7ea276923178534cda7bfe1c1735c114f6513635b"
+    },
+    {
+      "path": "docs/index_gesamtverlauf_wahrhaftigkeit_transformationsmathematik.pdf",
+      "bytes": 73574,
+      "sha256": "23ad4f8d1beae862c0c2aeb3b75387c8a7b0d9af06b0c1962b7b755058734cd1"
+    },
+    {
+      "path": "docs/index_pdf_manifest_transformationsmathematik.json",
+      "bytes": 648,
+      "sha256": "9220c9cc5ed8be4b5624f487efb05fb965dc5e422ee768b663a73de2e42c7d1b"
+    },
+    {
+      "path": "scripts/verify_sha256.py",
+      "bytes": 1711,
+      "sha256": "98e8fe2e0c1e9ca9a7495f6eac1f5f41a9cbc174668660435b02fe891d8e0a5f"
+    },
+    {
+      "path": "spreadsheets/gesamtverlauf_transformationsmathematik_wahrhaftigkeit_top500.xlsx",
+      "bytes": 99471,
+      "sha256": "fabe61054ec196d7b4e56e42321e6f3ec37ab49247ec333111fbc8a6b201cd8b"
+    },
+    {
+      "path": "spreadsheets/index_27_tabellen_manifest.json",
+      "bytes": 639,
+      "sha256": "5f38c9c2a4866c617318b0a72b611f178fd28b0c8093ea686c004bfaea22bbaf"
+    },
+    {
+      "path": "spreadsheets/index_27_tabellen_top_inhalte_wahrhaftigkeit.xlsx",
+      "bytes": 81348,
+      "sha256": "078a4133a843978c2a948bafb278d0a2013fbe17a2c4277553fa44b7936f8ac7"
+    }
+  ],
+  "missing_optional_source_files": [],
+  "file_count": 23
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Integrale Transformationsmathematik und Wahrhaftigkeitsanalyse"
+authors:
+  - family-names: "Tunc"
+    given-names: "Luciano"
+date-released: "2026-05-31"
+version: "0.1.0-draft"
+license: "MIT"
+repository-code: "https://github.com/DEIN_USERNAME/integrale-transformationsmathematik-wahrhaftigkeit"
+abstract: "Open AI-assisted documentation dataset and research framework for Integral Transformational Mathematics and Truth-Oriented Analysis."

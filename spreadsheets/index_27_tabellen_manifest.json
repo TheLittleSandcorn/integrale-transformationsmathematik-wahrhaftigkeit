@@ -1,0 +1,13 @@
+{
+  "file": "index_27_tabellen_top_inhalte_wahrhaftigkeit.xlsx",
+  "bytes": 81348,
+  "sha256": "078a4133a843978c2a948bafb278d0a2013fbe17a2c4277553fa44b7936f8ac7",
+  "source_index_json": "index_gesamtverlauf_wahrhaftigkeit_transformationsmathematik.json",
+  "source_index_json_sha256": "1f5339edc249205ec035f7fc64903df4797c98f4ba3832d68f6dd3c5f1bcb4a4",
+  "individual_top_tables": 27,
+  "work_steps": 27,
+  "human_eras": 22,
+  "formula_index_entries": 22,
+  "created_at": "2026-05-31T03:03:09",
+  "truth_note": "27 einzelne TOP-Inhalt-Tabellen; konsolidierter Wahrhaftigkeitsnachweis, kein wortwörtliches Volltranskript skipped Inhalte."
+}

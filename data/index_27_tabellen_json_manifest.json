@@ -1,0 +1,14 @@
+{
+  "file": "index_27_tabellen_top_inhalte_wahrhaftigkeit.json",
+  "bytes": 126343,
+  "sha256": "1fe8ede051153db0578f34f052eb9e7eb6a70d17d747fa266ae4b764074b87db",
+  "source_index_json": "index_gesamtverlauf_wahrhaftigkeit_transformationsmathematik.json",
+  "source_index_json_sha256": "1f5339edc249205ec035f7fc64903df4797c98f4ba3832d68f6dd3c5f1bcb4a4",
+  "individual_top_tables": 27,
+  "rows_per_top_table": 6,
+  "master_index_entries": 27,
+  "human_eras": 22,
+  "formula_index_entries": 22,
+  "created_at": "2026-05-31T03:04:42",
+  "truth_note": "Maschinenlesbare JSON-Version der 27 TOP-Inhalt-Tabellen; konsolidierter Wahrhaftigkeitsnachweis, kein wortwörtliches Volltranskript skipped Inhalte."
+}
